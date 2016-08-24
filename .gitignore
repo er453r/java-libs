@@ -2,4 +2,5 @@
 */target/*
 oet-parser/term_map.txt
 oet-parser/test_paths.txt
+*.dadl
 
